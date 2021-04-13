@@ -1,1 +1,1 @@
-# Naive-Bayes-Perceptron
+# Naive-Bayes and Perceptron
